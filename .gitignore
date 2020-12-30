@@ -1,0 +1,10 @@
+.vscode/
+bomberman
+*.o
+Makefile
+CMakeCache.txt
+CMakeFiles/*
+cmake_install.cmake
+.vs/
+src/entity/NPC2.cpp
+inc/NPC2.cpp
